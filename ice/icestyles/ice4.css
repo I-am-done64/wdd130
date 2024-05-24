@@ -4,11 +4,14 @@ main, body{
     text-align: center;
     
 ol {text-align: left;}
-
 }
+
+body, h1:hover{color:black}
+.text_white{color: #ffffff}
 
 img {
     width: 40%;
     text-align: center;}
     
+footer{color:black}
 
